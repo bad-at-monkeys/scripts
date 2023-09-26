@@ -1,2 +1,2 @@
 # scripts
-Writing shell scripts for various tasks
+Writing shell scripts for various tasks.
